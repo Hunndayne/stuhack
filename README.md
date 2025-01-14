@@ -4,6 +4,8 @@
 
 #
 
+## Bản gốc từ [isanchop/stuhack](https://github.com/isanchop/stuhack/tree/main), đây mình chỉ chỉnh sửa lại để dùng được tên miền .vn của studocu.
+
 
 Stuack is a chrome extension for www.studocu.com to get free premium features
 
@@ -23,14 +25,14 @@ Stuack is a chrome extension for www.studocu.com to get free premium features
 
 
 
-## Installation:
+## Cài đặt:
     
-    1) Git clone or download file and unzip on a folder 
-    2) Go to the extensions tab on google chrome (chrome://extensions/)
-    3) Enable "Developer mode" on the top right of the tab
-    4) Press on "Load unpacked" new feature that appeared on top left corner
-    5) Browse the path you downloaded the extension and choose select
-    6) Enjoy :)
-   
+    1) Git clone hoặc tải file zip và giải nén
+    2) Vào mục extensions (chrome://extensions/ hoặc edge://extensions/)
+    3) Bật Developer mode ở góc bên phải với google chrome hoặc Developer mode ở thanh bên trái với edge
+    4) Chọn vào Download 
+    5) Một cửa sổ hiện lên thì nhấn control P để hiện trang in và lưu về máy
+    6) Trong trường hợp lưu bị thiếu trang thì vào extentions ở bước 2, chọn đến stuhack -> details -> Allow in Incognito (Google chrome) hoặc Allow in InPrivate (Edge)
+    7) Thực hiện lại từ bước 4
   ![Installation](https://user-images.githubusercontent.com/67743899/149144506-714a84a0-cd10-4155-91fe-20c39753b578.jpg)
   
