@@ -32,7 +32,7 @@ Stuack is a chrome extension for www.studocu.com to get free premium features
     3) Bật Developer mode ở góc bên phải với google chrome hoặc Developer mode ở thanh bên trái với edge
     4) Chọn vào Download 
     5) Một cửa sổ hiện lên thì nhấn control P để hiện trang in và lưu về máy
-    6) Trong trường hợp lưu bị thiếu trang thì vào extentions ở bước 2, chọn đến stuhack -> details -> Allow in Incognito (Google chrome) hoặc Allow in InPrivate (Edge)
+    6) Trong trường hợp lưu bị thiếu trang thì vào extentions ở bước 2, chọn đến stuhack -> details -> Allow in Incognito (Google chrome) hoặc Allow in InPrivate (Edge) và bật trình ẩn danh lên sử dụng.
     7) Thực hiện lại từ bước 4
   ![Installation](https://user-images.githubusercontent.com/67743899/149144506-714a84a0-cd10-4155-91fe-20c39753b578.jpg)
   
