@@ -4,7 +4,7 @@
 
 #
 
-## Bản gốc từ [isanchop/stuhack](https://github.com/isanchop/stuhack/tree/main), đây mình chỉ chỉnh sửa lại để dùng được tên miền .vn của studocu.
+## Bản gốc từ [isanchop/stuhack](https://github.com/isanchop/stuhack/tree/main), đây mình chỉnh sửa lại để dùng được tên miền .vn của studocu và các trang trắng không hiện nội dung từ bản gốc.
 
 
 Stuack is a chrome extension for www.studocu.com to get free premium features
